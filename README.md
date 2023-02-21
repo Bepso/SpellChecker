@@ -10,7 +10,7 @@ This is a spell checking application that uses the JLanguageTool library to dete
 ## Getting Started
 To get started, clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/DrBepso/spell-checker.git
+git clone https://github.com/Bepso/SpellChecker.git
 ```
 
 ## Back-end
